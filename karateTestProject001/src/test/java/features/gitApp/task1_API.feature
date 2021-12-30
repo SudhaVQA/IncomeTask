@@ -2,7 +2,7 @@ Feature: sample karate test script
 
   Background:
     Given url urlGetUsersAPI
-    And header Authorization = 'token ' + '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'
+    And header Authorization = 'token ' + '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'
 #    And karate.log('base URL is.. -->' +urlGetUsersAPI);
 
   Scenario Outline: Get all users and then get the first user by id

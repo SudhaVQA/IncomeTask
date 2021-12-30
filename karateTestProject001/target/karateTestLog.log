@@ -1,0 +1,177 @@
+06:02:36.585 [main] INFO  com.intuit.karate - 
+User Information: 
+Username = torvalds
+Name = Linus Torvalds
+Created on = 2011-09-03 
+06:02:39.000 [main] INFO  com.intuit.karate - 
+Repository Information:
+Repository1 = libdc-for-dirk
+     Stars = 132
+     ReleaseURL = https://api.github.com/repos/torvalds/libdc-for-dirk/releases
+     Releases = 1,
+Repository2 = linux
+     Stars = 123389
+     ReleaseURL = https://api.github.com/repos/torvalds/linux/releases
+     Releases = 0,
+Repository3 = pesconvert
+     Stars = 209
+     ReleaseURL = https://api.github.com/repos/torvalds/pesconvert/releases
+     Releases = 0,
+Repository4 = subsurface-for-dirk
+     Stars = 194
+     ReleaseURL = https://api.github.com/repos/torvalds/subsurface-for-dirk/releases
+     Releases = 0,
+Repository5 = test-tlb
+     Stars = 411
+     ReleaseURL = https://api.github.com/repos/torvalds/test-tlb/releases
+     Releases = 0,
+Repository6 = uemacs
+     Stars = 801
+     ReleaseURL = https://api.github.com/repos/torvalds/uemacs/releases
+     Releases = 0 
+06:02:39.321 [main] INFO  com.intuit.karate - 
+User Information: 
+Username = defunkt
+Name = Chris Wanstrath
+Created on = 2007-10-20 
+06:02:49.538 [main] INFO  com.intuit.karate - 
+Repository Information:
+Repository1 = ace
+     Stars = 16
+     ReleaseURL = https://api.github.com/repos/defunkt/ace/releases
+     Releases = 0,
+Repository2 = acts_as_textiled
+     Stars = 114
+     ReleaseURL = https://api.github.com/repos/defunkt/acts_as_textiled/releases
+     Releases = 0,
+Repository3 = ambition
+     Stars = 157
+     ReleaseURL = https://api.github.com/repos/defunkt/ambition/releases
+     Releases = 0,
+Repository4 = ambitious_activeldap
+     Stars = 8
+     ReleaseURL = https://api.github.com/repos/defunkt/ambitious_activeldap/releases
+     Releases = 0,
+Repository5 = ambitious_activerecord
+     Stars = 13
+     ReleaseURL = https://api.github.com/repos/defunkt/ambitious_activerecord/releases
+     Releases = 0,
+Repository6 = barefootexamples
+     Stars = 6
+     ReleaseURL = https://api.github.com/repos/defunkt/barefootexamples/releases
+     Releases = 0,
+Repository7 = body_matcher
+     Stars = 9
+     ReleaseURL = https://api.github.com/repos/defunkt/body_matcher/releases
+     Releases = 0,
+Repository8 = burn
+     Stars = 6
+     ReleaseURL = https://api.github.com/repos/defunkt/burn/releases
+     Releases = 0,
+Repository9 = cache_fu
+     Stars = 254
+     ReleaseURL = https://api.github.com/repos/defunkt/cache_fu/releases
+     Releases = 0,
+Repository10 = cheat
+     Stars = 239
+     ReleaseURL = https://api.github.com/repos/defunkt/cheat/releases
+     Releases = 0,
+Repository11 = cheat.el
+     Stars = 14
+     ReleaseURL = https://api.github.com/repos/defunkt/cheat.el/releases
+     Releases = 0,
+Repository12 = choice
+     Stars = 174
+     ReleaseURL = https://api.github.com/repos/defunkt/choice/releases
+     Releases = 0,
+Repository13 = cijoe
+     Stars = 1050
+     ReleaseURL = https://api.github.com/repos/defunkt/cijoe/releases
+     Releases = 0,
+Repository14 = coffee-mode
+     Stars = 572
+     ReleaseURL = https://api.github.com/repos/defunkt/coffee-mode/releases
+     Releases = 0,
+Repository15 = colored
+     Stars = 264
+     ReleaseURL = https://api.github.com/repos/defunkt/colored/releases
+     Releases = 0,
+Repository16 = currency_converter
+     Stars = 8
+     ReleaseURL = https://api.github.com/repos/defunkt/currency_converter/releases
+     Releases = 0,
+Repository17 = d3
+     Stars = 4
+     ReleaseURL = https://api.github.com/repos/defunkt/d3/releases
+     Releases = 0,
+Repository18 = defunkt.github.com
+     Stars = 73
+     ReleaseURL = https://api.github.com/repos/defunkt/defunkt.github.com/releases
+     Releases = 0,
+Repository19 = djangode
+     Stars = 9
+     ReleaseURL = https://api.github.com/repos/defunkt/djangode/releases
+     Releases = 0,
+Repository20 = dodgeball.github.com
+     Stars = 10
+     ReleaseURL = https://api.github.com/repos/defunkt/dodgeball.github.com/releases
+     Releases = 0,
+Repository21 = dotenv
+     Stars = 10
+     ReleaseURL = https://api.github.com/repos/defunkt/dotenv/releases
+     Releases = 0,
+Repository22 = dotjs
+     Stars = 3170
+     ReleaseURL = https://api.github.com/repos/defunkt/dotjs/releases
+     Releases = 0,
+Repository23 = electron-wordwrap
+     Stars = 5
+     ReleaseURL = https://api.github.com/repos/defunkt/electron-wordwrap/releases
+     Releases = 0,
+Repository24 = emacs
+     Stars = 186
+     ReleaseURL = https://api.github.com/repos/defunkt/emacs/releases
+     Releases = 0,
+Repository25 = email_reply_parser
+     Stars = 7
+     ReleaseURL = https://api.github.com/repos/defunkt/email_reply_parser/releases
+     Releases = 0,
+Repository26 = evilbot
+     Stars = 48
+     ReleaseURL = https://api.github.com/repos/defunkt/evilbot/releases
+     Releases = 0,
+Repository27 = exception_logger
+     Stars = 241
+     ReleaseURL = https://api.github.com/repos/defunkt/exception_logger/releases
+     Releases = 0,
+Repository28 = facebox
+     Stars = 1950
+     ReleaseURL = https://api.github.com/repos/defunkt/facebox/releases
+     Releases = 0,
+Repository29 = faceup
+     Stars = 10
+     ReleaseURL = https://api.github.com/repos/defunkt/faceup/releases
+     Releases = 0,
+Repository30 = fixture_scenarios_builder
+     Stars = 14
+     ReleaseURL = https://api.github.com/repos/defunkt/fixture_scenarios_builder/releases
+     Releases = 0 
+06:02:51.239 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 2 of 3 (0 remaining) classpath:features/gitApp/task1_API.feature
+06:02:52.871 [nioEventLoopGroup-2-1] WARN  c.i.k.driver.chrome_1640901771261 - devtools error: [id: 6, sessionId: 51E890C5C9F58469D6B5C488BC166209, error: {code=-32602, message=Invalid parameters, data=Failed to deserialize params.windowId - BINDINGS: int32 value expected at position 16}]
+06:02:52.873 [nioEventLoopGroup-2-1] WARN  c.i.k.driver.chrome_1640901771261 - devtools error: [id: 7, sessionId: 51E890C5C9F58469D6B5C488BC166209, error: {code=-32602, message=Invalid parameters, data=Failed to deserialize params.windowId - BINDINGS: int32 value expected at position 16}]
+06:03:06.413 [nioEventLoopGroup-2-1] WARN  c.i.k.driver.chrome_1640901771261 - devtools error: [id: 41, sessionId: 51E890C5C9F58469D6B5C488BC166209, result: [type: MAP, value: {type=object, subtype=error, className=TypeError, description=TypeError: Cannot read properties of null (reading 'innerHTML')
+    at fun (<anonymous>:1:46)
+    at <anonymous>:1:187
+    at <anonymous>:1:196, objectId=-7991115596985736191.4.1}]]
+06:03:06.413 [main] WARN  c.i.k.driver.chrome_1640901771261 - js eval failed once:(function(){ var fun = function(_){ return _.innerHTML }; var e = document.evaluate("//*[@id='repository-container-header']//span[1]/a", document, null, 9, null).singleNodeValue; return fun(e) })(), error: [type: MAP, value: {type=object, subtype=error, className=TypeError, description=TypeError: Cannot read properties of null (reading 'innerHTML')
+    at fun (<anonymous>:1:46)
+    at <anonymous>:1:187
+    at <anonymous>:1:196, objectId=-7991115596985736191.4.1}]
+06:03:09.422 [main] INFO  com.intuit.karate - userName is: zavg 
+06:03:09.425 [main] INFO  com.intuit.karate - RepoName is: linux-0.01 
+06:03:09.432 [main] INFO  com.intuit.karate - StarsFromUI is: 762 
+06:03:09.758 [main] INFO  com.intuit.karate - StarsFromAPI is: 762 
+06:03:09.759 [main] INFO  com.intuit.karate - Matching StarsFromUI:762 with StarsFromAPI:762 
+06:03:09.770 [nioEventLoopGroup-2-1] ERROR c.i.k.http.WebSocketClientHandler - websocket exception: An established connection was aborted by the software in your host machine
+06:03:09.803 [chrome_1640901771261] WARN  com.intuit.karate.shell.Command - exit code was non-zero: 1 - [C:/Program Files/Google/Chrome/Application/chrome.exe, --remote-debugging-port=9222, --no-first-run, --user-data-dir=C:\Users\shirish\IdeaProjects\karateTestProject001\target\chrome_1640901771261, --disable-popup-blocking, --headless] working dir: target\chrome_1640901771261
+06:03:09.877 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 3 of 3 (0 remaining) classpath:features/gitApp/task2_UI.feature
