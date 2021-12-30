@@ -22,4 +22,7 @@ Matching StarsFromUI
 Report:
 Can be found in proj location, target/karate-reports/karate-summary.html
 
+Logs:
+Can be found in target/karateTestLog.log
+
 
